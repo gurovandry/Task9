@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\Task9\Task9\bin\Debug\Task9.exe.config
+C:\Users\Андрей\source\repos\Task9\Task9\bin\Debug\Task9.exe
+C:\Users\Андрей\source\repos\Task9\Task9\bin\Debug\Task9.pdb
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.Form1.resources
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.Properties.Resources.resources
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.exe
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.pdb
+C:\Users\Андрей\source\repos\Task9\Task9\obj\Debug\Task9.Forms.Form2.resources
